@@ -55,7 +55,6 @@ _TBD_
 
 - [Report a bug](https://github.com/nksoft/vmetrics_ui/issues)
 - [Home Assistant Community Forum](https://community.home-assistant.io/)
-- [Home Assistant Discord](https://discord.gg/cnDmVn3V)
 
 ## Disclaimer
 
