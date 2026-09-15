@@ -8,7 +8,7 @@ A database-explorer-style web interface for [VictoriaMetrics](https://victoriame
 - **Data Table** — View, sort, and filter entity data with pagination
 - **Chart View** — Line, area, and bar charts with drag-to-zoom and CTRL+scroll zoom
 - **Query Console** — MetricsQL editor with historical data via query_range
-- **Time Range Picker** — Preset ranges from 15 minutes to 1 year, plus custom
+- **Time Range Picker** — Preset ranges from 15 minutes to 5 year, plus custom
 - **Favorites** — Star entities for quick access
 - **CSV Export** — Download data as CSV
 - **InfluxDB Migration** — Import historical data from InfluxDB v1 into VictoriaMetrics
