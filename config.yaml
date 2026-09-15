@@ -14,6 +14,7 @@ ingress: true
 ingress_port: 3000
 panel_icon: mdi:database-search
 panel_title: VictoriaMetrics UI
+image: ghcr.io/nksoft/vmetrics_ui
 options:
   vm_url: "http://homeassistant:8428"
   vm_username: ""
