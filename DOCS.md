@@ -35,7 +35,7 @@ Add-on configuration:
 - **Data Table** — View, sort, and filter entity data with pagination
 - **Chart View** — Line, area, and bar charts with zoom
 - **Query Console** — MetricsQL editor
-- **Time Range Picker** — 15 minutes to 1 year
+- **Time Range Picker** — 15 minutes to 5 year
 - **Favorites** — Star entities for quick access
 - **CSV Export** — Download data as CSV
 - **InfluxDB Migration** — Import historical data from InfluxDB v1
@@ -54,4 +54,3 @@ Add-on configuration:
 Got questions? Open an issue at [GitHub](https://github.com/nksoft/vmetrics_ui/issues).
 
 - [Home Assistant Community Forum](https://community.home-assistant.io/)
-- [Home Assistant Discord Chat](https://discord.gg/cnDmVn3V)
