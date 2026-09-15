@@ -1,0 +1,12 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+backend/static/
+test_app/
+vmetrics_ui/
+vmetrics_ui_github/
+vmetrics_ui_github.zip
+vmetrics_ui.zip
+.opencode/
+AGENTS.md
