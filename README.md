@@ -28,8 +28,6 @@ https://github.com/nksoft/vmetrics_ui
 5. Configure your VictoriaMetrics URL and credentials in the add-on settings
 6. Start the add-on and click **Open Web UI**
 
-[![Open your Home Assistant instance and show the add-on repository in the Home Assistant Community Store.](https://my.home-assistant.io/badges/hassio_repository.svg)](https://my.home-assistant.io/redirect/hassio_repository/?url=https://github.com/nksoft/vmetrics_ui)
-
 ## Configuration
 
 | Option | Description | Default |
