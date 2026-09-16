@@ -1,5 +1,5 @@
 name: VictoriaMetrics UI
-version: "1.29.21"
+version: "1.29.22"
 slug: vmetrics_ui
 description: Database-style web interface for exploring VictoriaMetrics data
 arch:
@@ -13,6 +13,7 @@ ingress: true
 ingress_port: 3000
 panel_icon: mdi:database-search
 panel_title: VictoriaMetrics UI
+image: ghcr.io/nksoft/vmetrics_ui
 options:
   vm_url: "http://homeassistant:8428"
   vm_username: ""
