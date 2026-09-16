@@ -27,7 +27,7 @@ fi
 git add -A
 git commit -m "Release v${VERSION}"
 git tag -a "v${VERSION}" -m "Release v${VERSION}" --force
-git push origin master --force
+git push origin master:main --force
 git push origin "v${VERSION}" --force
 
 # Remove image field from local config.yaml (for local SMB deploy)
