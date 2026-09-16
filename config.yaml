@@ -1,5 +1,5 @@
 name: VictoriaMetrics UI
-version: "1.29.22"
+version: "1.29.24"
 slug: vmetrics_ui
 description: Database-style web interface for exploring VictoriaMetrics data
 arch:

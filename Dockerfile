@@ -9,7 +9,7 @@ RUN npm run build
 FROM python:3.12-slim
 
 LABEL \
-  io.hass.version="1.29.21" \
+  io.hass.version="1.29.24" \
   io.hass.type="app" \
   io.hass.arch="aarch64|amd64"
 
